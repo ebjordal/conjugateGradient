@@ -1,0 +1,28 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+# Rust specific
+./rust/target/
+/target/
+**/*.rs.bk
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
