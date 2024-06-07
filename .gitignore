@@ -5,6 +5,8 @@
 *.ear
 *.nar
 hs_err_pid*
+.idea/
+target/
 
 # Rust specific
 ./rust/target/
